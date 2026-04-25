@@ -12,7 +12,7 @@ import threading
 import sys
 from datetime import datetime
 
-TARGET = "http://136.115.53.115"
+TARGET = "http://<SERVER_IP>" # Change it to Server IP
 
 USER_AGENTS = [
     # Desktop browsers
