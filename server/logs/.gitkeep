@@ -1,0 +1,3 @@
+# This directory stores nginx access and error logs.
+# Logs are excluded from version control via .gitignore.
+# Docker Compose mounts this directory for nginx log output.
