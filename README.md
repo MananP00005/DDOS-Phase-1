@@ -2,8 +2,6 @@
 
 ### Phase 1: Attack Simulation on a Web Server
 
-**CS559 — Network Security | Binghamton University, Watson School of Engineering**
-
 > Implement a DDoS attack on a web server that incorporates an ML-based defense mechanism. Whenever a DDoS attack is detected, the ML model will identify and prevent it in real time — demonstrating both the attack vector and an automated, intelligent countermeasure.
 
 ---
@@ -529,7 +527,5 @@ Phase 2 will implement an ML-based detection system that automatically identifie
 ---
 
 ## License
-
-This project was developed for **CS559 — Network Security** at Binghamton University, Watson School of Engineering. It is intended for **educational and research purposes only**.
 
 > **Disclaimer:** This lab is designed for controlled educational environments. Running DDoS attacks against systems you do not own or have explicit permission to test is illegal. All attacks in this project target infrastructure provisioned and controlled by the project author on GCP.
